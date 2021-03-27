@@ -2,8 +2,6 @@
 
 Repositorio con ejercicios resueltos de Seminario de lenguaje (Python).
 
-[
-
 # Índice
 - [Practica-1](./pracica1)
     - [Ejercicio 8](./pracica1/Ej8.py)
